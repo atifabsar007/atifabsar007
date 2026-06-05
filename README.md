@@ -1,3 +1,9 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifabsar007&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atifabsar007&layout=compact)
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 ![C](https://img.shields.io/badge/C-Language-blue)
 ![Python](https://img.shields.io/badge/Python-Learning-yellow)
