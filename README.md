@@ -1,6 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifabsar007&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifabsar007&show_icons=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atifabsar007&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atifabsar007&layout=compact&cache_seconds=1800)
 
 
 
