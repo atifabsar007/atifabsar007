@@ -1,81 +1,79 @@
 <!-- HEADER ANIMATION -->
-<h1 align="center">🚀 Hey, I'm Md. Atif Absar</h1>
-<h3 align="center">CSE Undergraduate @ KUET | Aspiring Software Engineer | AI & Software Dev Enthusiast</h3>
+<h1 align="center">🚀 Md. Atif Absar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+the+making;AI+%26+ML+Enthusiast;C%2FC%2B%2B+Developer;Open+Source+Contributor;Astronomy+%26+Space+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=CSE+Undergraduate+@+KUET;Software+Engineering+Enthusiast;C%2FC%2B%2B+%7C+DSA+%7C+OOP+Developer;SEO+Specialist+%7C+Meta+Ads+Expert;AI+%26+Tech+Explorer" />
 </p>
 
 ---
 
-## 👨‍🚀 About Me
+## ⚡ About Me
 
-- 🎓 CSE 2nd Year Student at **KUET**
-- 💻 Passionate about **Software Engineering & AI**
-- 🚀 Currently mastering **C, C++, DSA & Problem Solving**
-- 🌌 Astronomy & Astrophysics Enthusiast
-- 🔭 Citizen Scientist @ IASC (NASA-sponsored projects)
-- 📚 Always learning, building, and breaking things (to fix them better 😄)
+🎓 CSE Undergraduate @ **KUET**  
+💻 Software Engineering & Problem Solving Focused  
+📈 SEO Specialist | Meta Ads Expert (Digital Marketing)  
+⚙️ Strong in C, C++, OOP, DSA  
+🚀 Passionate about building scalable systems & digital growth strategies  
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Skills & Expertise
 
-### 💻 Languages
+### 💻 Programming
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📚 Currently Learning
-- Data Structures & Algorithms 🧠  
-- Object-Oriented Programming 💡  
-- Web Development 🌐  
-- AI / Machine Learning 🤖  
-- Software Engineering Best Practices ⚙️  
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Problem Solving
 
 ---
 
-## 📊 GitHub Stats
+### 📈 Digital Marketing Expertise
+![SEO](https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge&logo=google&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atifabsar007&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifabsar007&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Goals
-
-- 🚀 Build impactful real-world software projects  
-- 🌍 Contribute to Open Source  
-- 🧠 Master Full-Stack Development  
-- 🤖 Explore AI / ML deeply  
-- 🛰️ Combine Software + Space Tech interests  
+- Search Engine Optimization (SEO)
+- Meta (Facebook/Instagram) Ads Campaign Management
+- Audience Targeting & Growth Strategy
+- Conversion Optimization
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="www.linkedin.com/in/md-atif-absar-50776a1a0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mr.atif.absar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=atifabsar007&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifabsar007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## ✨ Fun Fact
+## 📫 Connect With Me
 
-> “I look at code like I look at the universe — infinite possibilities waiting to be explored.” 🌌
+<p align="center">
+  
+<a href="https://www.facebook.com/atif.absar.5">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_a.tif_absar__/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/md-atif-absar-50776a1a0">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mr.atif.absar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
+<!-- WAVE ANIMATION FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:3A86FF&height=120&section=footer"/>
 </p>
