@@ -37,14 +37,15 @@
 ### Languages
 
 * C
-* Python
+* C++
 
 ### Currently Learning
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
-* Software Engineering
+* Search Engine Optimization
 * Web Development
+* Meta Ad Expertise
 
 ---
 
